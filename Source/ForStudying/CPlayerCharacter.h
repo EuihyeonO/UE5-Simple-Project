@@ -20,6 +20,7 @@ enum class EWeaponType
 {
 	Bared UMETA(DisplayName = "Bared"),
 	Sword UMETA(DisplayName = "Sword"),
+	Rifle UMETA(DisplayName = "Rifle"),
 };
 
 UCLASS()
